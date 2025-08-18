@@ -1,0 +1,61 @@
+✅ Week 1 – IAM & MFA
+- Enabled MFA for root account
+- Created IAM admin user (stopped using root)
+- Implemented strong password policy
+- Built custom IAM policy for **S3 read-only access**
+
+🔗 [Week 1 Folder](week-01-iam-mfa)
+
+---
+
+### ✅ Week 2 – S3 Security
+- Created a secure bucket with **default encryption**
+- Applied bucket policy to enforce **HTTPS-only access**
+- Tested with presigned URLs
+- Learned how misconfigurations could expose data
+
+🔗 [Week 2 Folder](week-02-s3-security)
+
+---
+
+*(Repeat format for Weeks 3–10 as you go)*
+
+---
+
+## 🔑 Skills Gained
+- ✅ Identity & Access Management (IAM) – least privilege, MFA, custom policies  
+- ✅ Secure Storage (S3) – encryption, access control, bucket policies  
+- ✅ Compute Security (EC2) – instance hardening, safe connectivity  
+- ✅ Networking (VPC) – subnets, routing, bastion host access  
+- ✅ Monitoring (CloudTrail, CloudWatch) – activity logs, alarms, alerts  
+- ✅ Encryption (KMS) – customer managed keys, enforced encryption policies  
+- ✅ Threat Detection (GuardDuty) – findings triage, SNS alerts  
+- ✅ Incident Response – analyzing misconfigurations and applying remediations  
+- ✅ Compliance Awareness – IAM reports, Trusted Advisor checks  
+
+---
+
+## 📊 Portfolio Summary
+At the end of Week 10, I’ll publish a **compliance report (PDF)** summarizing:
+- Security posture of the AWS account  
+- Logging and monitoring setup  
+- Data protection measures  
+- Incident response capability  
+- Lessons learned and next steps  
+
+---
+
+## 🚀 Next Steps
+- Complete all 10 labs  
+- Attempt **AWS Certified Cloud Practitioner**  
+- Build toward **AWS Security Specialty**  
+- Apply knowledge in degree apprenticeship / cybersecurity analyst roles  
+
+---
+
+## 📜 Notes
+- No sensitive data, keys, or identifiers are stored here.  
+- All screenshots are **redacted** to avoid exposing account IDs.  
+- These labs were conducted on the **AWS Free Tier** for learning purposes only.  
+
+---
