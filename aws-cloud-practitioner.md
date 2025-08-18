@@ -1,8 +1,8 @@
 # AWS Cloud Practitioner Essentials — Summary
 
 ## 📜 Certificate
-![AWS Certificate Screenshot](certificate.png)  
-*(Replace this with your actual certificate image. Save the image in the same folder as this file or update the link.)*
+<img width="1023" height="740" alt="image" src="https://github.com/user-attachments/assets/a009650e-9bd3-4465-bd83-1de278831d8a" />
+
 
 ---
 
@@ -47,4 +47,4 @@ This training covered foundational cloud computing concepts, AWS services, secur
 
 ---
 
-*Completed on: DD Month YYYY*
+*Completed on: August 18, 2025
