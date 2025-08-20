@@ -16,5 +16,15 @@
 - IAM groups simplify user management
 
 ## Evidence
-- policy.json (example policy)
+- Admin policy.json
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "*",
+            "Resource": "*"
+        }
+    ]
+}
 - Redacted screenshots in `/screenshots/`
